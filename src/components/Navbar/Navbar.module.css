@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 40px 0 20px;
+}
+.box{
+    width:10%;
+    display: flex;
+    justify-content: space-around;
+}

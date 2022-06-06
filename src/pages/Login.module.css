@@ -1,0 +1,14 @@
+.loginBox{
+    border:1px solid red;
+    display:flex;
+    flex-direction: column;
+    width:30%;
+    height: 200px;
+    margin:auto;
+    padding:3px;
+    
+}
+.loginBox input,button{
+    width: 50%;
+    margin:auto;
+}
